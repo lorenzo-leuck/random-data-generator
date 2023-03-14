@@ -1,1 +1,1 @@
-Geração de dados aleátorios para auxiliar o desenvolvimento de sites e aplicativos.
+Geração de dados cadastrais para auxiliar desenvolvimento e teste de aplicativos web.
