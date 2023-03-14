@@ -1,1 +1,1 @@
-Esse script gera dados aleátorios para auxiliar no desenvolvimento de sites e aplicativos. 
+Geração de dados aleátorios para auxiliar o desenvolvimento de sites e aplicativos. 
